@@ -1,2 +1,2 @@
 # mySitecoreDummyProject
-This is just a dummy project for sitecore
+This is just a development branch for dummy project for sitecore
